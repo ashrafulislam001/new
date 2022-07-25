@@ -1,0 +1,30 @@
+.add-padding{
+    padding: 100px;
+}
+.frm{
+    margin-top: 50px;
+    padding: 50px;
+    box-shadow: 5px 5px 14px gray;
+    border-radius: 10px;
+
+}
+.dash-board{
+    padding: 100px;
+    display: none;
+}
+.deposit{
+    background-color: darkorchid;
+    color: #fff;
+    
+}
+.withdrow{
+    background-color: coral;color: #fff;
+}
+.balance{
+    background-color: orange;color: #fff;
+}
+.add-paddings{
+    padding: 20px;
+    margin: 0 20px;
+    border-radius: 10px;
+}
